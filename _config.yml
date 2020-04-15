@@ -1,4 +1,10 @@
-title: Oleg MIKHAJLOV's Blog
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Setup
+title: Oleg MIKHAJLOV's 
+Blog
 description: Blog
 show_downloads: true
 google_analytics:
