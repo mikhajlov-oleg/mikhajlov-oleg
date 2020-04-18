@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Oleg's Blog
 remote_theme:     fongandrew/hydeout
-url:              https://mikhajlov-oleg.github.io/mikhajlov-oleg/
+url:              https://mikhajlov-oleg.github.io
 
 
 paginate:         5
